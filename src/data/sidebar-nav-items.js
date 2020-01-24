@@ -2,14 +2,14 @@ export default function() {
   return [
     {
       title: "Dashboard",
-      to: "/blog-overview",
+      to: "/overview",
       htmlBefore: '<i class="material-icons">edit</i>',
       htmlAfter: ""
     },
     {
-      title: "Blog Posts",
+      title: "Posts",
       htmlBefore: '<i class="material-icons">vertical_split</i>',
-      to: "/blog-posts",
+      to: "/pyt-posts",
     },
     {
       title: "Add New Post",

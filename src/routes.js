@@ -18,10 +18,10 @@ export default [
     path: "/",
     exact: true,
     layout: DefaultLayout,
-    component: () => <Redirect to="/blog-overview" />
+    component: () => <Redirect to="/overview" />
   },
   {
-    path: "/blog-overview",
+    path: "/overview",
     layout: DefaultLayout,
     component: BlogOverview
   },
@@ -51,7 +51,7 @@ export default [
     component: Tables
   },
   {
-    path: "/blog-posts",
+    path: "/pyt-posts",
     layout: DefaultLayout,
     component: BlogPosts
   }
