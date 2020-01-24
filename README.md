@@ -4,7 +4,7 @@
 </a>
 </p>
 
-<h1 align="center" style="border-bottom: none !important; margin-bottom: 5px !important;"><a href="https://designrevision.com/downloads/shards-dashboard-lite-react/">Shards Dashboard React</a></h1>
+<h1 align="center" style="border-bottom: none !important; margin-bottom: 5px !important;"><a href="https://designrevision.com/downloads/shards-dashboard-lite-react/">PYT Analytics React</a></h1>
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" />
@@ -56,7 +56,7 @@ A free React admin dashboard template pack featuring a modern design system <br 
 - All primary templates are located inside `src/views`.
 - There is only one single layout defined (Default) inside `src/layouts`, however, the current structure provides an easy way of extending the UI kit. 
 - The `src/components` directory hosts all template-specific subcomponents in their own subdirectory.
-- The layout styles inherited from Shards Dashboard are pulled in from the `src/shards-dashboard` submodule inside `src/App.js`.
+- The layout styles inherited from PYT Analytics are pulled in from the `src/shards-dashboard` submodule inside `src/App.js`.
 - Other extra styles specific to the libraries used are located inside `src/assets`.
 - The `src/utils` directory contains generic Chart.js utilities.
 
@@ -87,7 +87,7 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 
 ### 🌟 Pro Version
 
-If you're looking for something more, check out [Shards Dashboard Pro React](https://designrevision.com/downloads/shards-dashboard-pro-react/) which features many more custom templates and components. Use the `GITHUB15` coupon code for a **15% discount off the current price**.
+If you're looking for something more, check out [PYT Analytics Pro React](https://designrevision.com/downloads/shards-dashboard-pro-react/) which features many more custom templates and components. Use the `GITHUB15` coupon code for a **15% discount off the current price**.
 
 <br />
 
